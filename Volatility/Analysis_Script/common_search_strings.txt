@@ -1,0 +1,7 @@
+psexecsvc
+psexec.exe
+powershell.exe -executionPolicy bypass
+cmd.exe /c
+net use
+net view
+net config
